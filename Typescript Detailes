@@ -1,0 +1,36 @@
+TypeScript Topic Name and Detailes
+
+===== Topic =====
+1.=>  TypeScript intro & Addition function in TypeScript.   => 01-10-2022  -- 9:30 PM
+2.=>  Object & Array                                        => 03-10-2022  -- 9:30 PM
+3.=>  Tuples & Enums                                        => 04-10-2022  -- 9:30 PM
+4.=>  Union & Literal                                       => 05-10-2022  -- 12:20 PM
+5.=>  Type Aliese // Function return Type                   => 06-10-2022  -- 9:30 PM
+
+
+
+
+
+===== Theory =====
+1.=>    What is TypeScript?
+Ans.==> It is developed by mircrosoft in 2012.
+        TypeScript is a Superset Of JavaScript.
+        It is Object Oriented.
+        TypeScript is Strongly typed
+        Browser has JavaScript engine so TypeScript code converted in to JavaScript code.
+    =>  TypeScript is a syntactic superset of JavaScript which adds static typing.
+        === Benifits of Typescript ===
+        a. => Easy code Management.
+        b. => It shows Run-Time Error. and etc....
+
+2.=>    What is Interface in TypeScript?
+Ans.==> It Define Structure of Object.
+
+3.=>    What is Tuples in TypeScript?
+Ans.==> Tuples is a TypeScript type that work like an Array
+        It is fixed length Array.
+
+4.=>    What is Enums in TypeScript?
+Ans.==> Enum is a group of named const values,
+        enum stands for Enumerated/enumeration/factor type.
+
