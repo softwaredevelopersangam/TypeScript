@@ -113,6 +113,7 @@
     "assets/src/inheritance.ts",
     "assets/src/overridingProperties.ts",
     "assets/src/getterandsetter.ts",
-    "assets/src/abstract.ts"
+    "assets/src/abstract.ts",
+    "assets/src/singletone.ts"
   ],
 }
